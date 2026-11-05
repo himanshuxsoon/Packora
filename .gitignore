@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Django
+media/
+staticfiles/
+
+# React
+node_modules/
+dist/
+
+# Database backup
+*.sql
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Backup files
+*.save
